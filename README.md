@@ -122,6 +122,8 @@ Books I have read and can recommend
 - Introduction to Rx
 - TPL Dataflow by Example
 - Regular Expressions
+- Blazor in Action
+- Entity Framework Core in Action
 
 ## Software Architecture
 - Design Patterns. Elements of Reusable Object-Oriented Software
@@ -132,6 +134,9 @@ Books I have read and can recommend
 - Functional Programming Patterns
 - Site Reliability Engineering
 - Antipatterns
+- Reactive Design Patterns
+- SOA Patterns
+- SOA Governance in Action
 
 ## SQL Server
 - T-SQL Fundamentals
@@ -141,6 +146,7 @@ Books I have read and can recommend
 - Refactoring Databases
 
 ## Requirement Management and Software Testing
+- Writing Great Specifications
 - ATDD By Example
 - User Stories Applied
 - Bridging the Communication Gap
