@@ -9,9 +9,9 @@ Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna,
 # 💻 Tech Stack
 
 ## Operating Systems
-![Windows](https://img.shields.io/badge/windows-%23239120.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23239120.svg?style=for-the-badge&logo=linux&logoColor=white)
-![MacOS](https://img.shields.io/badge/macos-%23239120.svg?style=for-the-badge&logo=macos&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-%23FFC107.svg?style=for-the-badge&logo=windows&logoColor=%23FFFFFF)
+![Linux](https://img.shields.io/badge/linux-%2303A9F4.svg?style=for-the-badge&logo=linux&logoColor=%23FFFFFF)
+![MacOS](https://img.shields.io/badge/macos-%23E91E63.svg?style=for-the-badge&logo=macos&logoColor=%23FFFFFF)
 
 ## Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -22,16 +22,16 @@ Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna,
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Data Formats
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![XML](https://img.shields.io/badge/xml-%23000000.svg?style=for-the-badge&logo=xml&logoColor=white)
-![SVG](https://img.shields.io/badge/svg-%23000000.svg?style=for-the-badge&logo=svg&logoColor=white)
-![HL7](https://img.shields.io/badge/hl7-%23000000.svg?style=for-the-badge&logo=hl7&logoColor=white)
-![DICOM](https://img.shields.io/badge/dicom-%23000000.svg?style=for-the-badge&logo=dicom&logoColor=white)
-![ELDA](https://img.shields.io/badge/elda-%23000000.svg?style=for-the-badge&logo=elda&logoColor=white)
-![ELGA](https://img.shields.io/badge/elga-%23000000.svg?style=for-the-badge&logo=elga&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23F44336.svg?style=for-the-badge&logo=html5&logoColor=%23FFFFFF) 
+![CSS3](https://img.shields.io/badge/css3-%2303A9F4.svg?style=for-the-badge&logo=css3&logoColor=%23FFFFFF) 
+![LaTeX](https://img.shields.io/badge/latex-%234CAF50.svg?style=for-the-badge&logo=latex&logoColor=%23FFFFFF) 
+![Markdown](https://img.shields.io/badge/markdown-%239C27B0.svg?style=for-the-badge&logo=markdown&logoColor=%23FFFFFF) 
+![XML](https://img.shields.io/badge/xml-%23FFEB3B.svg?style=for-the-badge&logo=xml&logoColor=%23FFFFFF)
+![SVG](https://img.shields.io/badge/svg-%23795548.svg?style=for-the-badge&logo=svg&logoColor=%23FFFFFF)
+![HL7](https://img.shields.io/badge/hl7-%23607D8B.svg?style=for-the-badge&logo=hl7&logoColor=%23FFFFFF)
+![DICOM](https://img.shields.io/badge/dicom-%239E9E9E.svg?style=for-the-badge&logo=dicom&logoColor=%23FFFFFF)
+![ELDA](https://img.shields.io/badge/elda-%2300BCD4.svg?style=for-the-badge&logo=elda&logoColor=%23FFFFFF)
+![ELGA](https://img.shields.io/badge/elga-%23E91E63.svg?style=for-the-badge&logo=elga&logoColor=%23FFFFFF)
 
 ## Frontend Development
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
@@ -45,13 +45,13 @@ Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna,
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 
 ## Frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![WPF](https://img.shields.io/badge/wpf-3199DC?style=for-the-badge&logo=WPF&logoColor=white) 
-![WinForms](https://img.shields.io/badge/WinForms-3199DC?style=for-the-badge&logo=WinForms&logoColor=white) 
-![WCF](https://img.shields.io/badge/wcf-3199DC?style=for-the-badge&logo=WCF&logoColor=white) 
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) 
-![SignalR](https://img.shields.io/badge/SignalR-3199DC?style=for-the-badge&logo=signalr&logoColor=white) 
-![Blazor](https://img.shields.io/badge/Blazor-3199DC?style=for-the-badge&logo=blazor&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-%2300BCD4.svg?style=for-the-badge&logo=.net&logoColor=%23FFFFFF) 
+![WPF](https://img.shields.io/badge/wpf-%23E91E63.svg?style=for-the-badge&logo=WPF&logoColor=%23FFFFFF) 
+![WinForms](https://img.shields.io/badge/WinForms-%23FFC107.svg?style=for-the-badge&logo=WinForms&logoColor=%23FFFFFF) 
+![WCF](https://img.shields.io/badge/wcf-%23607D8B.svg?style=for-the-badge&logo=WCF&logoColor=%23FFFFFF) 
+![Xamarin](https://img.shields.io/badge/Xamarin-%234CAF50.svg?style=for-the-badge&logo=xamarin&logoColor=%23FFFFFF) 
+![SignalR](https://img.shields.io/badge/SignalR-%23F44336.svg?style=for-the-badge&logo=signalr&logoColor=%23FFFFFF) 
+![Blazor](https://img.shields.io/badge/Blazor-%2303A9F4.svg?style=for-the-badge&logo=blazor&logoColor=%23FFFFFF)
 
 ## Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
@@ -68,18 +68,18 @@ Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna,
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 
 ## Message Bus
-![ZeroMQ](https://img.shields.io/badge/zeromq-%23D42029.svg?style=for-the-badge&logoColor=blue)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23D42029.svg?style=for-the-badge&logoColor=blue)
-![MassTransit](https://img.shields.io/badge/masstransit-%23D42029.svg?style=for-the-badge&logoColor=blue)
+![ZeroMQ](https://img.shields.io/badge/zeromq-%23E91E63.svg?style=for-the-badge&logoColor=%23FFFFFF)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%2300BCD4.svg?style=for-the-badge&logoColor=%23FFFFFF)
+![MassTransit](https://img.shields.io/badge/masstransit-%238BC34A.svg?style=for-the-badge&logoColor=%23FFFFFF)
 
 ## DevOps and Project Management
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=%23FFFFFF) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=%23FFFFFF) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=%23FFFFFF) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=%23FFFFFF) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=%23FFFFFF)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=%23FFFFFF) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=%23FFFFFF)
 
 ## Image Editing
 ![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) 
@@ -96,64 +96,12 @@ Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna,
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MovGP0&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MovGP0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+# 🔖 See also
+- [Recommended Books for .NET Developers](BookRecommendations.md)
+
 # 🌐 Recommended Links for Programmers
 - [Awesome Libraries](https://github.com/sindresorhus/awesome)
 - [Falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
 
-# 📖 Recommended Books for .NET Developers
-Books I have read and can recommend
-
-## Good Practices
-- Clean Code / The Clean Coder
-- The Passionate Programmer
-- The Pragmatic Programmer
-- Effective C# Book Series
-- Learning .NET High-performance Programming
-- WPF Debugging and Performance
-- Working Effectively with Legacy Codebases
-- Agive Principles, Patterns, and Practices in C#
-
-## Essential Technologies
-- JavaScript: The Good Parts
-- Essential Docker for ASP.NET Core MVC
-- OAuth 2.0
-- Windows PowerShell
-- Data Binding with WinForms 2.0
-- Introduction to Rx
-- TPL Dataflow by Example
-- Regular Expressions
-- Blazor in Action
-- Entity Framework Core in Action
-
-## Software Architecture
-- Design Patterns. Elements of Reusable Object-Oriented Software
-- Patterns of Enterprise Application Architecture
-- Enterprise Integration Patterns
-- Service Design Patterns
-- Clean Architecture
-- Functional Programming Patterns
-- Site Reliability Engineering
-- Antipatterns
-- Reactive Design Patterns
-- SOA Patterns
-- SOA Governance in Action
-
-## SQL Server
-- T-SQL Fundamentals
-- SQL Server Relational Database Design and Implementation
-- SQL Server Execution Plans
-- SQL Server Query Performance Tuning
-- Refactoring Databases
-
-## Requirement Management and Software Testing
-- Writing Great Specifications
-- ATDD By Example
-- User Stories Applied
-- Bridging the Communication Gap
-- Fifty Quick Ideas to Improve Your Tests
-- Fifty Quick Ideas to Improve Your User Stories
-- Impact Mapping
-- Humans vs Comupters
-
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
