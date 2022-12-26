@@ -1,7 +1,7 @@
 # 📖 Recommended Books for .NET Developers
 Books I have read and can recommend
 
-## Good Practices
+## 😇 Good Practices
 - **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert C. Martin (2008)
 - **The Clean Coder: A Code of Conduct for Professional Programmers** by Robert C. Martin (2011)
 - **The Passionate Programmer** by Chad Fowler (2009)
@@ -13,7 +13,7 @@ Books I have read and can recommend
 - **Working Effectively with Legacy Codebases** by Michael C. Feathers (2004)
 - **Agile Principles, Patterns, and Practices in C#** by Robert C. Martin and Micah Martin (2006)
 
-## Essential Technologies
+## 💻 Essential Technologies
 - **JavaScript: The Good Parts** by Douglas Crockford (2008)
 - **Essential Docker for ASP.NET Core MVC** by Adam Freeman (2017)
 - **OAuth 2.0: The Definitive Guide** by Aaron Parecki (2014)
@@ -26,7 +26,7 @@ Books I have read and can recommend
 - **Blazor in Action** by Chris Sainty (2022)
 - **Entity Framework Core in Action** by Jon P. Smith and Julie Lerman (2021)
 
-## Software Architecture
+## 🏛️ Software Architecture
 - **Design Patterns. Elements of Reusable Object-Oriented Software** by Erich Gamma, Richard Helm, et al. (1997)
 - **Patterns of Enterprise Application Architecture** by Martin Fowler (2002)
 - **Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions** by Gregor Hohpe and Bobby Woolf (2003)
@@ -39,14 +39,14 @@ Books I have read and can recommend
 - **SOA Patterns** by Arnon Rotem-Gal-Oz (2012)
 - **SOA Governance in Action: REST and WS-* Architectures** by Jos Dirksen (2012)
 
-## SQL Server
+## 💾 SQL Server
 - **T-SQL Fundamentals** by Itzik Ben-Gan (2016)
 - **SQL Server Relational Database Design and Implementation: Best Practices for Scalability and Performance** by Louis Davidson (2020)
 - **SQL Server Execution Plans** by Grant Fritchey (2018)
 - **SQL Server 2022 Query Performance Tuning: Troubleshoot and Optimize Query Performance** by Grant Fritchey (2022)
 - **Refactoring Databases: Evolutionary Database Design** by Scott W. Ambler and Pramodkumar J. Sadalage (2011)
 
-## Requirement Management and Software Testing
+## 🧪 Requirement Management and Software Testing
 - **Writing Great Specifications** by Kamil Nicieja (2017)
 - **ATDD By Example** by Markus Gärtner (2011)
 - **User Stories Applied** by Mike Cohn (2004)
