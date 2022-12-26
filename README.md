@@ -1,5 +1,6 @@
 # 💫 About Me
 Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna, Austria 🇦🇹 with a keen interest in machine learning 🤖, recommendation engines 🧑‍💼, and search 🔍. I am also a vegan 🌱 and a dancer 🕺💃 of the standard dances. I am excited to share my knowledge 🤓 and learn from others in the community 🤝. Looking forward to collaborating on interesting projects 💡 and making meaningful contributions to the open source community 🌎.
+<!-- icons are provided by https://simpleicons.org/ -->
 
 ## 🌐 Social Links
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&style=for-the-badge&logoColor=white)](https://stackoverflow.com/users/MovGP0) 
