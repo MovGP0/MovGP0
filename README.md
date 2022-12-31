@@ -50,6 +50,7 @@ Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna,
 ![DICOM](https://img.shields.io/badge/dicom-%239E9E9E.svg?style=for-the-badge&logo=dicom&logoColor=%23FFFFFF)
 ![ELDA](https://img.shields.io/badge/elda-%2300BCD4.svg?style=for-the-badge&logo=elda&logoColor=%23FFFFFF)
 ![ELGA](https://img.shields.io/badge/elga-%23E91E63.svg?style=for-the-badge&logo=elga&logoColor=%23FFFFFF)
+![EDIFACT](https://img.shields.io/badge/edifact-%23E91E63.svg?style=for-the-badge&logo=edifact&logoColor=%23FFFFFF)
 
 ## 🌐 Frontend Development
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
@@ -65,20 +66,26 @@ Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna,
 ## 🧱 Frameworks
 ![.Net](https://img.shields.io/badge/.NET-%2300BCD4.svg?style=for-the-badge&logo=.net&logoColor=%23FFFFFF) 
 
+### .NET Desktop Frameworks
 ![WPF](https://img.shields.io/badge/wpf-%23E91E63.svg?style=for-the-badge&logo=WPF&logoColor=%23FFFFFF) 
 ![WinForms](https://img.shields.io/badge/WinForms-%23FFC107.svg?style=for-the-badge&logo=WinForms&logoColor=%23FFFFFF) 
 ![Xamarin](https://img.shields.io/badge/Xamarin-%234CAF50.svg?style=for-the-badge&logo=xamarin&logoColor=%23FFFFFF) 
 
+### .NET Web Frameworks
 ![ASP.NET](https://img.shields.io/badge/asp.net-%23E91E63.svg?style=for-the-badge&logo=WPF&logoColor=%23FFFFFF) 
 ![ASP.NET Web Forms](https://img.shields.io/badge/asp.net%20Web%20Forms-%23E91E63.svg?style=for-the-badge&logo=WPF&logoColor=%23FFFFFF) 
 ![ASP.NET MVC](https://img.shields.io/badge/asp.net%20MVC-%23E91E63.svg?style=for-the-badge&logo=WPF&logoColor=%23FFFFFF) 
 ![Blazor](https://img.shields.io/badge/Blazor-%2303A9F4.svg?style=for-the-badge&logo=blazor&logoColor=%23FFFFFF)
 
-![WCF](https://img.shields.io/badge/wcf-%23607D8B.svg?style=for-the-badge&logo=WCF&logoColor=%23FFFFFF) 
-![SignalR](https://img.shields.io/badge/SignalR-%23F44336.svg?style=for-the-badge&logo=signalr&logoColor=%23FFFFFF) 
+### Data Exchange
+![SignalR](https://img.shields.io/badge/SignalR-%23FFC107.svg?style=for-the-badge&logo=signalr&logoColor=%23FFFFFF) 
+![WCF](https://img.shields.io/badge/wcf-%239C27B0.svg?style=for-the-badge&logo=WCF&logoColor=%23FFFFFF) 
+
+![REST](https://img.shields.io/badge/rest-%2300BCD4.svg?style=for-the-badge&logo=REST&logoColor=%23FFFFFF) 
+![gRPC](https://img.shields.io/badge/gRPC-%23FF5722.svg?style=for-the-badge&logo=grpc&logoColor=%23FFFFFF) 
+![WSDL](https://img.shields.io/badge/wsdl-%234CAF50.svg?style=for-the-badge&logo=wsdl&logoColor=%23FFFFFF) 
 
 ## 🗃️ Databases
-
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -89,10 +96,10 @@ Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna,
 ![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-9C27B0.svg?style=for-the-badge&logo=cosmos-db&logoColor=white) 
 
 ### SQL Server Services
-![SQL Server Reporting Services](https://img.shields.io/badge/SQL%20Server%20Reporting%20Services%20%28SSRS%29-00B0FF?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![SQL Server Integration Services](https://img.shields.io/badge/SQL%20Server%20Integration%20Services%20%28SSIS%29-9C27B0?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![SQL Server Replication](https://img.shields.io/badge/SQL%20Server%20Replication-E91E63?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![SQL Server High-Availability Services](https://img.shields.io/badge/SQL%20Server%20High%20Availability%20Services-69F0AE?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=back) 
+![SQL Server Reporting Services](https://img.shields.io/badge/SQL%20Server%20Reporting%20Services%20%28SSRS%29-00B0FF?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQL Server Integration Services](https://img.shields.io/badge/SQL%20Server%20Integration%20Services%20%28SSIS%29-9C27B0?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQL Server Replication](https://img.shields.io/badge/SQL%20Server%20Replication-E91E63?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQL Server High-Availability Services](https://img.shields.io/badge/SQL%20Server%20High%20Availability%20Services-69F0AE?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=back)
 ![SQL Server Security](https://img.shields.io/badge/SQL%20Server%20Security-3F51B5?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## 📡 Web Servers
@@ -105,9 +112,13 @@ Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna,
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%2300BCD4.svg?style=for-the-badge&logoColor=%23FFFFFF)
 ![MassTransit](https://img.shields.io/badge/masstransit-%238BC34A.svg?style=for-the-badge&logoColor=%23FFFFFF)
 
-## 🔒 Identity Solutions
+## 🔒 Identity and Security Solutions
 ![Identity Server](https://img.shields.io/badge/identity%20server-%2300BCD4.svg?style=for-the-badge&logoColor=%23FFFFFF)
 ![Active Directory](https://img.shields.io/badge/activedirectory-9C27B0.svg?style=for-the-badge&logoColor=%23FFFFFF)
+![Auth0](https://img.shields.io/badge/auth%200-4CAF50.svg?style=for-the-badge&logoColor=%23FFFFFF)
+![Keycloak](https://img.shields.io/badge/keycloak-03A9F4.svg?style=for-the-badge&logoColor=%23FFFFFF)
+![OAuth 2.0](https://img.shields.io/badge/oauth-FF9800.svg?style=for-the-badge&logoColor=%23FFFFFF)
+![NWebSec](https://img.shields.io/badge/nwebsec-9C27B0.svg?style=for-the-badge&logoColor=%23FFFFFF)
 
 ## 📋 DevOps and Project Management
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=%23FFFFFF) 
