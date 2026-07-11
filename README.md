@@ -7,8 +7,6 @@ I am also a vegan 🌱 and a dancer 🕺💃 of the standard dances. I am excite
 ## 🌐 Social Links
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-B0C4E6?logo=stack-overflow&style=for-the-badge&logoColor=25334C)](https://stackoverflow.com/users/MovGP0) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B0C4E6?logo=Linkedin&style=for-the-badge&logoColor=25334C)](https://www.linkedin.com/in/johann-dirry-a11a3ab/)
-[![Facebook](https://img.shields.io/badge/Facebook-B0C4E6?logo=Facebook&style=for-the-badge&logoColor=25334C)](https://facebook.com/jdirry) 
-[![Twitter](https://img.shields.io/badge/Twitter-B0C4E6?logo=Twitter&style=for-the-badge&logoColor=25334C)](https://twitter.com/MovGP0) 
 
 # 💻 Tech Stack
 
