@@ -1,5 +1,7 @@
 # 💫 About Me
-Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna, Austria 🇦🇹 with a keen interest in machine learning 🤖, recommendation engines 🧑‍💼, and search 🔍. I am also a vegan 🌱 and a dancer 🕺💃 of the standard dances. I am excited to share my knowledge 🤓 and learn from others in the community 🤝. Looking forward to collaborating on interesting projects 💡 and making meaningful contributions to the open source community 🌎.
+Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna, Austria 🇦🇹 with a keen interest in machine learning 🤖, recommendation engines 🧑‍💼, and search 🔍.
+
+I am also a vegan 🌱 and a dancer 🕺💃 of the standard dances. I am excited to share my knowledge 🤓 and learn from others in the community 🤝. Looking forward to collaborating on interesting projects 💡 and making meaningful contributions to the open source community 🌎.
 <!-- icons are provided by https://simpleicons.org/ -->
 
 ## 🌐 Social Links
@@ -20,6 +22,7 @@ Hello, my name is John 🙋‍♂️ and I am a .NET developer 💻 from Vienna,
 ![F#](https://img.shields.io/badge/f%23-314466?style=for-the-badge&logo=fsharp&logoColor=C0CEE6)
 ![T-SQL](https://img.shields.io/badge/tsql-314466?style=for-the-badge&logo=T-SQL&logoColor=C0CEE6)
 ![PowerShell](https://img.shields.io/badge/powershell-314466?style=for-the-badge&logo=powershell&logoColor=C0CEE6)
+![Rust](https://img.shields.io/badge/rust-314466?style=for-the-badge&logo=rust&logoColor=C0CEE6)
 ![TypeScript](https://img.shields.io/badge/typescript-314466?style=for-the-badge&logo=typescript&logoColor=C0CEE6) 
 ![JavaScript](https://img.shields.io/badge/javascript-314466?style=for-the-badge&logo=javascript&logoColor=C0CEE6)
 
